@@ -61,8 +61,8 @@
 
 .right-column .col1, .right-column .col2, .right-column .col3 {
 
-  padding: 10px;
-  margin: 10px;
+  padding: 5px;
+  margin: 0;
   text-align: center;
   border-radius: 15px;
 }
@@ -129,3 +129,4 @@ transform:scale(1.1);
 cursor: pointer;
 
 }
+
